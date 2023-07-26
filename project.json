@@ -27,7 +27,7 @@
     ],
     "executionType": "Workflow",
     "readyForPiP": false,
-    "startsInPiP": false,
+    "startsInPiP": true,
     "mustRestoreAllDependencies": true
   },
   "designOptions": {
